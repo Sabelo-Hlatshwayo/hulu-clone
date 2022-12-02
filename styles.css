@@ -22,6 +22,10 @@ ul {
     list-style: none;
 }
 
+.center-text {
+    text-align: center;
+}
+
 .header {
     height: 80vh;
     background-image: url(./images/header.jpg);
@@ -52,9 +56,16 @@ ul {
 }
 
 .header__content {
-    border: solid red;
+    /* border: solid red; */
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+.tertiary-heading {
+    font-size: 1.4rem;
+    color: #00ed82;
+    text-transform: uppercase;
+    margin-bottom: 2.4rem;
 }
