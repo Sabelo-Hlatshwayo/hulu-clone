@@ -77,3 +77,14 @@ ul {
     display: block;
     width: 26.5rem;
 }
+
+.header__watch-text {
+    font-size: 2.4rem;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.header__channels-text {
+    font-size: 2rem;
+    line-height: 1.2;
+}
