@@ -71,5 +71,9 @@ ul {
     font-size: 1.4rem;
     color: #00ed82;
     text-transform: uppercase;
-    margin-bottom: 2.4rem;
+}
+
+.primary-heading__logo {
+    display: block;
+    width: 26.5rem;
 }
