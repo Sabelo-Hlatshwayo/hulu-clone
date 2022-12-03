@@ -103,4 +103,9 @@ ul {
     text-transform: capitalize;
     border-radius: 0.5rem;
     padding: 1.6rem 3.2rem;
+    transition: all 0.2s;
+}
+
+.btn--cta:hover {
+    opacity: 0.8;
 }
