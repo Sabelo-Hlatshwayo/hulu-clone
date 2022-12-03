@@ -109,3 +109,7 @@ ul {
 .btn--cta:hover {
     opacity: 0.8;
 }
+
+.legal-text {
+    font-size: 1.2rem;
+}
