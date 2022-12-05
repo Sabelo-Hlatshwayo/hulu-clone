@@ -128,6 +128,17 @@ ul {
     padding: 3rem 4rem;
 }
 
+.bundle-content {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    align-items: center;
+    gap: 4rem;
+}
+
+.logos {
+    width: 32rem;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 768px) {
     .primary-heading__logo {
