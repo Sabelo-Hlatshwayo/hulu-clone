@@ -26,6 +26,7 @@ ul {
     text-align: center;
 }
 
+/* SECTION HEADER */
 .header {
     height: 80vh;
     background-image: url(./images/header.jpg);
@@ -66,7 +67,6 @@ ul {
     align-items: center;
     justify-content: center;
     gap: 2.4rem;
-    border: solid green;
 }
 
 .tertiary-heading {
@@ -117,7 +117,7 @@ ul {
     font-size: 1.2rem;
 }
 
-/* Media queries */
+/* MEDIA QUERIES */
 @media (max-width: 768px) {
     .primary-heading__logo {
         width: 20rem;
