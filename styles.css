@@ -117,6 +117,17 @@ ul {
     font-size: 1.2rem;
 }
 
+/* SECTION BUNDLE */
+.section-bundle {
+    background-image: linear-gradient(
+        318.68deg,
+        #0f495c 0%,
+        #0d3640 49.72%,
+        #08141f 100%
+    );
+    padding: 3rem 4rem;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 768px) {
     .primary-heading__logo {
