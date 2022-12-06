@@ -146,6 +146,17 @@ ul {
     margin: 1.2rem 0 1.8rem 0;
 }
 
+.x {
+}
+
+.sub-link:link,
+.sub-link:visited {
+    display: block;
+    font-size: 1.2rem;
+    color: #ccc;
+    margin-top: 0.5rem;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 768px) {
     .primary-heading__logo {
