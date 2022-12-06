@@ -168,6 +168,11 @@ ul {
     border: 0.2rem solid #ccc;
 }
 
+.bundle-content div:last-child {
+    justify-self: end;
+    text-align: center;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 768px) {
     .primary-heading__logo {
