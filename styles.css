@@ -182,6 +182,11 @@ ul {
         padding: 0 2.4rem;
     }
 
+    .header__channels-text {
+        border: solid green;
+        display: none;
+    }
+
     .bundle-content {
         grid-template-columns: 1fr;
         text-align: center;
