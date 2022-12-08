@@ -210,6 +210,18 @@ ul {
     margin-bottom: 3.2rem;
 }
 
+.covers {
+    align-self: stretch;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem;
+    margin-top: 0.8rem;
+}
+
+.cover {
+    border: solid red;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 768px) {
     .primary-heading__logo {
