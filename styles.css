@@ -219,7 +219,27 @@ ul {
 }
 
 .cover {
-    border: solid red;
+    height: 50rem;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    border-radius: 0.5rem;
+}
+
+.cover-1 {
+    background-image: url("./images/cover-1.jpg");
+}
+
+.cover-2 {
+    background-image: url("./images/cover-2.jpg");
+}
+
+.cover-3 {
+    background-image: url("./images/cover-3.jpg");
+}
+
+.cover-4 {
+    background-image: url("./images/cover-4.jpg");
 }
 
 /* MEDIA QUERIES */
