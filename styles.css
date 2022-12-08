@@ -173,12 +173,16 @@ ul {
 
 /* SECTION PLANS */
 .section-categories {
+    background-color: #000;
+    padding: 9rem 4rem;
+}
+
+.categories-content {
+    border: solid red;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: #000;
-    padding: 9rem 4rem;
     text-align: center;
 }
 
@@ -200,6 +204,14 @@ ul {
 
 .margin-bottom-medium {
     margin-bottom: 2.2rem;
+}
+
+.covers {
+    border: solid red;
+}
+
+.covers div {
+    border: solid green;
 }
 
 /* MEDIA QUERIES */
