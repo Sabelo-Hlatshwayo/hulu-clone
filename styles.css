@@ -178,7 +178,7 @@ ul {
 }
 
 .categories-content {
-    border: solid red;
+    /* border: solid red; */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -206,12 +206,8 @@ ul {
     margin-bottom: 2.2rem;
 }
 
-.covers {
-    border: solid red;
-}
-
-.covers div {
-    border: solid green;
+.margin-bottom-large {
+    margin-bottom: 3.2rem;
 }
 
 /* MEDIA QUERIES */
