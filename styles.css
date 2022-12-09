@@ -327,6 +327,10 @@ ul {
     transition: all 0.2s;
 }
 
+.sub-link-2:hover {
+    color: #ccc;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 1280px) {
     .covers {
