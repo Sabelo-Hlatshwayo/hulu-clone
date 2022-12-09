@@ -303,6 +303,10 @@ ul {
 }
 
 /* SECTION LIVE */
+.section-live {
+    background-color: #151516;
+    padding: 4rem;
+}
 
 /* MEDIA QUERIES */
 @media (max-width: 1280px) {
