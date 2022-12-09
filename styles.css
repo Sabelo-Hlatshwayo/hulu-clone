@@ -319,6 +319,14 @@ ul {
     padding: 10rem;
 }
 
+.sub-link-2:link,
+.sub-link-2:visited {
+    font-size: 1.8rem;
+    color: #fff;
+    text-transform: uppercase;
+    transition: all 0.2s;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 1280px) {
     .covers {
