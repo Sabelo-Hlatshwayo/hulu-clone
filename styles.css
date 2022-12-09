@@ -133,6 +133,7 @@ ul {
 }
 
 .legal-text {
+    display: block;
     font-size: 1.2rem;
 }
 
@@ -165,8 +166,8 @@ ul {
     margin: 1.2rem 0 1.8rem 0;
 }
 
-.sub-link:link,
-.sub-link:visited {
+.sub-link-1:link,
+.sub-link-1:visited {
     display: block;
     font-size: 1.2rem;
     color: #ccc;
@@ -300,6 +301,8 @@ ul {
 .cover-4 {
     background-image: url("./images/cover-4.jpg");
 }
+
+/* SECTION LIVE */
 
 /* MEDIA QUERIES */
 @media (max-width: 1280px) {
