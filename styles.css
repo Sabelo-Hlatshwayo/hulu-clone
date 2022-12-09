@@ -381,4 +381,16 @@ ul {
     .sub-text {
         font-size: 2rem;
     }
+
+    .live-content {
+        padding: 3rem 1rem;
+    }
+
+    .live-content .secondary-heading {
+        line-height: 1.2;
+    }
+
+    .legal-text {
+        line-height: 1.2;
+    }
 }
