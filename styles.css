@@ -331,6 +331,44 @@ ul {
     color: #ccc;
 }
 
+/* SECTION SPORTS */
+.section-sports {
+    background-image: url("./images/live-sports.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 18rem 9rem;
+    border: solid white;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.section-sports div:first-child {
+    /* border: solid red; */
+}
+
+.x {
+    /* border: solid green; */
+}
+
+.sports-content {
+    /* border: solid green; */
+}
+
+.sports-logos {
+    /* border: solid blue; */
+    display: flex;
+    gap: 2.4rem;
+}
+
+.sports-logos img {
+    height: 5.2rem;
+    width: 5.2rem;
+    background-color: #fff;
+    border-radius: 50%;
+    padding: 1rem;
+}
+
 /* MEDIA QUERIES */
 @media (max-width: 1280px) {
     .covers {
